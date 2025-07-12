@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">650045400946</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFUyRc4OGtxEuOI3636507IoYCJ-HSyUw</string>
+    <string name="google_app_id" translatable="false">1:650045400946:android:439cc51f1f18075aeb5feb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFUyRc4OGtxEuOI3636507IoYCJ-HSyUw</string>
+    <string name="google_storage_bucket" translatable="false">investidorapp-jp.firebasestorage.app</string>
+    <string name="project_id" translatable="false">investidorapp-jp</string>
+</resources>
