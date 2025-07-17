@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483928885043",
+    "project_id": "msgapp-jp",
+    "storage_bucket": "msgapp-jp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483928885043:android:c0e2bc6ab5385778f6a046",
+        "android_client_info": {
+          "package_name": "com.example.msgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySYn_yEICxq_HQkwVr0JrzhFyOXVdqaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
